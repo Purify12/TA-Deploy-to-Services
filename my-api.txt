@@ -1,0 +1,5 @@
+Url app: https://try-third.herokuapp.com/
+
+Url route hewan: https://try-third.herokuapp.com/hewan
+
+Url route hewan by id : https://try-third.herokuapp.com/hewan/1
